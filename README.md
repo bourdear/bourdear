@@ -5,10 +5,14 @@
 
  - 🔭 I’m currently working on a CRUD [application](https://github.com/bourdear/teacher-portal) that helps teachers keep track of their classes, students, and test grades.
  - 🌱 I'm in the process of learning NodeJS.
- - :floppy_disk: All of my projects can be found here on [GitHub](https://github.com/bourdear).
+ - :floppy_disk: All of my projects can be found here on GitHub.
  - ⚡ Fun fact: Steve Wozniak was the world champion in Tetris for over 15 years. 
+<h3 align="left">Live Web Applications:</h3>
 
- <h3 align="left">Connect with me:</h3>
+- [MyWeather](https://bourdear.github.io/react-weather-app/)
+- [Category Trivia](https://bourdear.github.io/category-trivia/)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ronnie-bourdeau-ii-30b375b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronnie-bourdeau-ii-30b375b2/" height="30" width="40" /></a>
 </p>
