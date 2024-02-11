@@ -3,8 +3,7 @@
 
 ### Welcome to my GitHub profile!
 
- - 🔭 I’m currently working on a CRUD [application](https://github.com/bourdear/teacher-portal) that helps teachers keep track of their classes, students, and test grades.
- - 🌱 I'm in the process of learning NodeJS.
+ - 🌱 I'm in the process of learning Django.
  - :floppy_disk: All of my projects can be found here on GitHub.
  - ⚡ Fun fact: Steve Wozniak was the world champion in Tetris for over 15 years. 
 <h3 align="left">Live Web Applications:</h3>
